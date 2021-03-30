@@ -1,4 +1,7 @@
-body{background-color:rgb(255, 247, 170);}
+body{background-color:rgb(255, 247, 170);
+color: black;
+font-family: Arial;}
+
 
 .main header{
     width: 150vw;
@@ -10,4 +13,6 @@ body{background-color:rgb(255, 247, 170);}
     }
 .ctsprint1{
     background-color: blueviolet;
+    color: white;
+    font-size: 16px;
 }
