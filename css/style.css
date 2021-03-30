@@ -1,1 +1,13 @@
 body{background-color:rgb(255, 247, 170);}
+
+.main header{
+    width: 150vw;
+    height: 100%;
+    text-align: center;}
+
+    section{ 
+    padding: 5wv;
+    }
+.feedback{
+    background-color: blueviolet;
+}
